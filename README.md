@@ -1,2 +1,3 @@
 # athena-legal
-Pages légales ATHENA (homepage + politique de confidentialité)
+
+Pages légales publiques pour l'application OAuth A.T.H.E.N.A. (usage personnel).
